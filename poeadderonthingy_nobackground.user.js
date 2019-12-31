@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Sith's poe/trade visual changes
+// @name         Sith's poe/trade visual changes (no backgorund)
 // @namespace    https://github.com/DetectiveSquirrel/pathofexile-trade
 // @version      0.3
 // @description  Change pathofexile.com/trade to always show roll ranges and change colors
