@@ -11,7 +11,23 @@
 (function() {
     'use strict';
 
+    // always show stat ranges
     addGlobalStyle('.newItemPopup .lc .d { display:contents }');
+
+    // Section title color
+    addGlobalStyle('.filter-title { color: #30ad3a; }');
+
+    // Non selector color
+    addGlobalStyle('#trade .filter-group .filter-group-body .filter-title { color: #daa9a9; background-color: rgba(45,49,54,0.3); border-left: 3px solid #732727;}');
+
+    // set bnackground to be slightly transparent
+    addGlobalStyle('#trade .top { background-color: #000000bf; font-size: 1.1em; }');
+
+    // Non selector Fonts
+    addGlobalStyle('#trade .search-bar { margin-left: 0;margin-right: 0;padding: 8px 8px 0;font-family: \'OpenFont\', sans-serif;}');
+
+    // stat selector Fonts
+    addGlobalStyle('.filter-title { margin-left: 0; margin-right: 0; padding: 8px 8px 0; font-family: \'OpenFont\', sans-serif; }');
 
     function addGlobalStyle(css) {
     var head, style;
