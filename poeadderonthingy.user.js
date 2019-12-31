@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Sith's poe/trade visual changes
 // @namespace    https://github.com/DetectiveSquirrel/pathofexile-trade
-// @version      0.2
+// @version      0.3
 // @description  Change pathofexile.com/trade to always show roll ranges and change colors
 // @author       DetectiveSquirrel
 // @match        https://www.pathofexile.com/trade*
+// @updateURL    https://github.com/DetectiveSquirrel/pathofexile-trade/raw/master/poeadderonthingy.user.js
+// @downloadURL  https://github.com/DetectiveSquirrel/pathofexile-trade/raw/master/poeadderonthingy.user.js
 // @grant        none
 // ==/UserScript==
 
