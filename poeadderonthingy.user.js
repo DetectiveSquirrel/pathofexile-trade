@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Always show Pathofexile.com/trade affix ranges
+// @name         Sith's poe/trade visual changes
 // @namespace    https://github.com/DetectiveSquirrel/pathofexile-trade
 // @version      0.2
-// @description  try to take over the world!
-// @author       You
+// @description  Change pathofexile.com/trade to always show roll ranges and change colors
+// @author       DetectiveSquirrel
 // @match        https://www.pathofexile.com/trade*
 // @grant        none
 // ==/UserScript==
