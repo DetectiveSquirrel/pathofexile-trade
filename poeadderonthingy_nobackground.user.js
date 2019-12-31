@@ -5,8 +5,8 @@
 // @description  Change pathofexile.com/trade to always show roll ranges and change colors
 // @author       DetectiveSquirrel
 // @match        https://www.pathofexile.com/trade*
-// @updateURL    https://github.com/DetectiveSquirrel/pathofexile-trade/raw/master/poeadderonthingy.user.js
-// @downloadURL  https://github.com/DetectiveSquirrel/pathofexile-trade/raw/master/poeadderonthingy.user.js
+// @updateURL    https://github.com/DetectiveSquirrel/pathofexile-trade/raw/master/poeadderonthingy_nobackground.user.js
+// @downloadURL  https://github.com/DetectiveSquirrel/pathofexile-trade/raw/master/poeadderonthingy_nobackground.user.js
 // @grant        none
 // ==/UserScript==
 
