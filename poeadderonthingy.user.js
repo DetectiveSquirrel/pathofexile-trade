@@ -19,6 +19,9 @@
     // Section title color
     addGlobalStyle('.filter-title { color: #30ad3a; }');
 
+    // bulk section, subsection header text color
+    addGlobalStyle('.split { color: #daa9a9; }');
+
     // Non selector color
     addGlobalStyle('#trade .filter-group .filter-group-body .filter-title { color: #daa9a9; background-color: rgba(45,49,54,0.3); border-left: 3px solid #732727;}');
 
